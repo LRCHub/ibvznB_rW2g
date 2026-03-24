@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "diorama",
+  "base_artist": "IRyS",
+  "createdAt": "2026-03-24T04:34:18.836411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "diorama",
+      "artist": "UPLIFT SPICE",
+      "has_synced": true,
+      "path": "select/01_diorama_UPLIFT_SPICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "diorama",
+      "artist": "IRyS",
+      "has_synced": true,
+      "path": "select/02_diorama_IRyS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diorama (Studio Live)",
+      "artist": "Tulus",
+      "has_synced": false,
+      "path": "select/03_Diorama_(Studio_Live)_Tulus.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Diorama",
+      "artist": "MØL",
+      "has_synced": false,
+      "path": "select/04_Diorama_MØL.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Diorama",
+      "artist": "Teenage Wrist",
+      "has_synced": true,
+      "path": "select/05_Diorama_Teenage_Wrist.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Diorama",
+      "artist": "Choker",
+      "has_synced": true,
+      "path": "select/06_Diorama_Choker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DIORAMA",
+      "artist": "Yves",
+      "has_synced": true,
+      "path": "select/07_DIORAMA_Yves.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DIORAMA",
+      "artist": "Yves (이브)",
+      "has_synced": true,
+      "path": "select/08_DIORAMA_Yves_(이브).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Diorama",
+      "artist": "Bell X1",
+      "has_synced": true,
+      "path": "select/09_Diorama_Bell_X1.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diorama",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/10_Diorama_Saucy_Dog.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Torn (featured & remixed by Diorama)",
+      "artist": "Painbastard",
+      "has_synced": false,
+      "path": "select/11_Torn_(featured_&_remixed_by_Diorama)_Painbastard.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "diorama",
+      "artist": "IRyS",
+      "has_synced": false,
+      "path": "select/pl_01_diorama_IRyS.txt"
+    }
+  ]
+}
